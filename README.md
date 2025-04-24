@@ -98,7 +98,7 @@ Este projeto foi desenvolvido seguindo o tutorial "Desvendando o Django: Desenvo
 - [Parte 4 — Deploy da Aplicação](https://medium.com/@karoline.farias_18209/desvendando-o-django-desenvolvimento-web-r%C3%A1pido-e-eficiente-parte-4-cc548b05d224)
 - [Parte 5 — Construção da Aplicação "Lista de Tarefas"](https://medium.com/@karoline.farias_18209/desvendando-o-django-desenvolvimento-web-r%C3%A1pido-e-eficiente-parte-5-1ccb7395f00f)
 - [Parte 6 — Estilização e Integração com Bootstrap (Final)](https://medium.com/@karoline.farias_18209/desvendando-o-django-desenvolvimento-web-r%C3%A1pido-e-eficiente-parte-6-final-2185b0b1bd38)
-- [Parte 7 - Parte 7 — Desafio Extra: Filtrando e Organizando Tarefas] (https://medium.com/@karoline.farias_18209/desvendando-o-django-desenvolvimento-web-r%C3%A1pido-e-eficiente-parte-7-desafio-extra-b0a31a4d032d)
+- [Parte 7 - Desafio Extra: Filtrando e Organizando Tarefas](https://medium.com/@karoline.farias_18209/desvendando-o-django-desenvolvimento-web-r%C3%A1pido-e-eficiente-parte-7-desafio-extra-b0a31a4d032d)
 
 
 ## Licença
